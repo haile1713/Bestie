@@ -31,7 +31,7 @@ AI Study Buddy is designed to help students learn more effectively and efficient
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/haile1713/AI-Study-Buddy.git
+   git clone https://github.com/haile1713/Bestie.git
    ```
 
 2. Navigate to the project directory:
